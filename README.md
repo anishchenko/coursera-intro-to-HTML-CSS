@@ -1,3 +1,3 @@
 # coursera-intro-to-HTML-CSS
 
-## [the curent link to this web-page](https://anishchenko.github.io/coursera-intro-to-HTML-CSS/site)
+## [the curent link to this web-page](https://anishchenko.github.io/coursera-intro-to-HTML-CSS/site){:taget="/_blank"}
